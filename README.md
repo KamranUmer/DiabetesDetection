@@ -20,3 +20,5 @@ This Model also contains the following:
 -> Classification Report.
 -> ROC Curve.
 -> Test Data.
+
+![diabetes](https://github.com/KamranUmer/DiabetesDetection/assets/86089489/0628dc51-3a4e-464f-9593-cbaccfae1e6f)
